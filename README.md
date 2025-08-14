@@ -13,5 +13,5 @@ Our team analyzed the performance of the Google Merchandise Store using Google A
 
  ### 📎 Presentation Slide Deck  
 ### 📎 Presentation Slide Deck  
-[View the PowerPoint presentation on GitHub](https://github.com/alanaahart/AD688-Google-Merchandise-Store-Performance/blob/main/Ahart_Alana_AD688 Final Presentation-1.pdf)
+[View the PowerPoint presentation on GitHub](https://github.com/alanaahart/AD688-Google-Merchandise-Store-Performance/blob/main/Ahart_Alana_AD688%20Final%20Presentation-1.pdf)
 
